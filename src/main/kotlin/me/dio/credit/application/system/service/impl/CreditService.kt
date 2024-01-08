@@ -8,9 +8,8 @@ import java.util.*
 
 @Service
 class CreditService(
-    private val creditRepository: CreditRepository,
-    private val customerService: CustomerService
-): ICreditService {
+    private val creditRepository: CreditRepository, private val customerService: CustomerService
+) : ICreditService {
     override fun save(credit: Credit): Credit {
         credit.apply {
             customer = customerService.findById(credit.customer?.id!!)
