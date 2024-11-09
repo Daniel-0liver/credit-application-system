@@ -46,4 +46,3 @@ If possible:
 ⭐️ Star the project
 
 🐛 Find and report issues
-
