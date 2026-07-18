@@ -37,7 +37,7 @@
 	<li>Go to the project's root folder: <code>cd </code></li> 
 	<li>Execute the command: <code>./gradlew bootrun</code></li>
 </ol>
-<h6>** To facilitate the demonstration of the application, it is recommended to install only IntelliJ IDEA and run the project through the IDE **</h6>
+<h6>To facilitate the demonstration of the application, it is recommended to install only IntelliJ IDEA and run the project through the IDE</h6>
 
 This repository was created for study purposes, so feel free to contribute to it.<br>
 
